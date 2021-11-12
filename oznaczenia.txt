@@ -1,0 +1,7 @@
+title - tytuł. Wyświetla się w tytule karty
+h1 - głównie używany do tytułów
+h2 - oznaczenie np rozdziału itp
+hr - kreska oddzielająca 
+a href="#" - zamiast # daj link do którego ma prowadzić przycisk / hiperłącze'
+p - tekst
+b - pogrubienie
